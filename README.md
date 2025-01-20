@@ -1,5 +1,5 @@
 
-# Melanoma-Detection-Deep Leaning-Project
+# Melanoma-Skin-Cancer-Detection-with-CNN
 
 ## **Problem Statement**
 
