@@ -1,5 +1,5 @@
 
-# Melanoma-Skin-Cancer-Detection-with-CNN
+# Melanoma-Skin-Cancer-Detection-using-CNN-Model
 
 ## **Problem Statement**
 
