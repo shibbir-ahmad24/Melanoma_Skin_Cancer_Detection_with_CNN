@@ -1,12 +1,10 @@
 
 # Melanoma-Detection-Deep Leaning-Project
 
-build a CNN-based model that detects melanoma. A data set will be provided, which contains images of malignant and benign tumours. Understand the problem statement carefully and go through the evaluation rubrics before solving the problem
+To build a CNN-based model that detects melanoma. The dataset contains images of malignant and benign tumours. We have to understand the problem statement carefully and go through the evaluation rubrics before solving the problem.
 
 ## Problem Statement :
 build a multiclass classification model using a custom convolutional neural network in TensorFlow.
-
- 
 
 Problem statement: Build a CNN-based model that can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma can potentially reduce a lot of manual effort needed in diagnosis.
 
