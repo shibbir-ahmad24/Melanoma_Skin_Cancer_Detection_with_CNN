@@ -1,23 +1,16 @@
 
 # Melanoma-Detection-Deep Leaning-Project
 
-To build a CNN-based model that detects melanoma. The dataset contains images of malignant and benign tumours. We have to understand the problem statement carefully and go through the evaluation rubrics before solving the problem.
+## **Problem Statement**
 
-## Problem Statement :
-build a multiclass classification model using a custom convolutional neural network in TensorFlow.
-
-Problem statement: Build a CNN-based model that can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma can potentially reduce a lot of manual effort needed in diagnosis.
-
-
-
+Build a CNN-based multiclass classification model that can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma can potentially reduce a lot of manual effort needed in diagnosis.
 
 ## Documentation
 
-You can download the data set from
+Dataset download link:
 [Here]( https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view?usp=sharing)
 
 The data set consists of 2,357 images of malignant and benign tumours, which were identified by the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification by ISIC, and all subsets were divided into the same number of images, except for melanomas and moles, whose images are slightly dominant.
-
 
 The data set contains images relating to the following diseases:
 
